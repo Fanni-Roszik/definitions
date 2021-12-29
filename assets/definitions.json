@@ -1,0 +1,25 @@
+{
+    "definitions": [
+        {
+            "id": 1,
+            "title": "nem kötő elektronpár",
+            "description": "Olyan elektronpárok kovalens kötésben, amik csak az egyik atom körül keringenek."
+        }, {
+            "id": 2,
+            "title": "kovalens kötés",
+            "description": "Olyan elsőrendű kémiai kötés, amelyben az atomok vegyérték elektronjaikkal kapcsolódnak össze."
+        }, {
+            "id": 3,
+            "title": "dipólus molekula",
+            "description": "Olyan molekula, amiben az alkotó atomok közül az egyik jobban vonzza a kötő elektronpárokat mint a másik így pólusok alakulnak ki"
+        }, {
+            "id": 4,
+            "title": "hőmérséklet",
+            "description": "Az anyagok belső energiáját jelző fizikai mennyiség"
+        }, {
+            "id": 5,
+            "title": "nyomás",
+            "description": "A nyomóerő és a nyomott felület hányadosa.\njele: P"
+        }
+    ]
+}
